@@ -1,0 +1,470 @@
+Unnamed: 0,PatientID,condition,Unnamed: 3,age_at_diagnosis,age,handedness,folder_path,COND_OTHER,COND_PARKINSONS,COND_HEALTHY
+patient,1,Healthy,,56,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\001""",0,0,1
+patient,2,Other Movement Disorders,,69,81,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\002""",1,0,0
+patient,3,Healthy,,45,45,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\003""",0,0,1
+patient,4,Parkinson's,,63,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\004""",1,0,0
+patient,5,Parkinson's,,65,75,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\005""",1,0,0
+patient,6,Parkinson's,,60,72,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\006""",1,0,0
+patient,7,Other Movement Disorders,,73,74,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\007""",1,0,0
+patient,8,Parkinson's,,65,73,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\008""",1,0,0
+patient,9,Parkinson's,,35,47,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\009""",1,0,0
+patient,10,Parkinson's,,47,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\010""",1,0,0
+patient,11,Other Movement Disorders,,45,51,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\011""",1,0,0
+patient,12,Parkinson's,,51,52,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\012""",1,0,0
+patient,13,Parkinson's,,59,64,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\013""",1,0,0
+patient,14,Parkinson's,,57,72,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\014""",1,0,0
+patient,15,Atypical Parkinsonism,,59,64,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\015""",1,0,0
+patient,16,Other Movement Disorders,,69,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\016""",1,0,0
+patient,17,Multiple Sclerosis,,45,51,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\017""",1,0,0
+patient,18,Atypical Parkinsonism,,50,54,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\018""",1,0,0
+patient,19,Parkinson's,,53,64,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\019""",1,0,0
+patient,20,Parkinson's,,69,71,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\020""",1,0,0
+patient,21,Healthy,,64,64,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\021""",0,0,1
+patient,22,Parkinson's,,51,57,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\022""",1,0,0
+patient,23,Other Movement Disorders,,49,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\023""",1,0,0
+patient,24,Other Movement Disorders,,65,68,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\024""",1,0,0
+patient,25,Parkinson's,,69,71,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\025""",1,0,0
+patient,26,Parkinson's,,72,74,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\026""",1,0,0
+patient,27,Healthy,,76,76,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\027""",0,0,1
+patient,28,Parkinson's,,57,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\028""",1,0,0
+patient,29,Parkinson's,,33,48,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\029""",1,0,0
+patient,30,Parkinson's,,60,61,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\030""",1,0,0
+patient,31,Parkinson's,,65,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\031""",1,0,0
+patient,32,Atypical Parkinsonism,,69,77,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\032""",1,0,0
+patient,33,Parkinson's,,75,77,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\033""",1,0,0
+patient,34,Healthy,,51,51,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\034""",0,0,1
+patient,35,Other Movement Disorders,,50,72,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\035""",1,0,0
+patient,36,Multiple Sclerosis,,24,40,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\036""",1,0,0
+patient,37,Other Movement Disorders,,0,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\037""",1,0,0
+patient,38,Parkinson's,,43,51,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\038""",1,0,0
+patient,39,Parkinson's,,59,78,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\039""",1,0,0
+patient,40,Parkinson's,,54,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\040""",1,0,0
+patient,41,Parkinson's,,56,64,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\041""",1,0,0
+patient,42,Other Movement Disorders,,80,80,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\042""",1,0,0
+patient,43,Other Movement Disorders,,69,73,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\043""",1,0,0
+patient,44,Multiple Sclerosis,,43,55,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\044""",1,0,0
+patient,45,Healthy,,49,49,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\045""",0,0,1
+patient,46,Healthy,,60,60,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\046""",0,0,1
+patient,47,Parkinson's,,70,72,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\047""",1,0,0
+patient,48,Parkinson's,,66,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\048""",1,0,0
+patient,49,Parkinson's,,38,61,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\049""",1,0,0
+patient,50,Other Movement Disorders,,37,45,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\050""",1,0,0
+patient,51,Parkinson's,,53,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\051""",1,0,0
+patient,52,Healthy,,49,49,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\052""",0,0,1
+patient,53,Parkinson's,,58,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\053""",1,0,0
+patient,54,Healthy,,40,40,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\054""",0,0,1
+patient,55,Parkinson's,,53,63,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\055""",1,0,0
+patient,56,Parkinson's,,48,53,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\056""",1,0,0
+patient,57,Parkinson's,,71,75,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\057""",1,0,0
+patient,58,Other Movement Disorders,,48,60,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\058""",1,0,0
+patient,59,Parkinson's,,58,59,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\059""",1,0,0
+patient,60,Parkinson's,,47,53,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\060""",1,0,0
+patient,61,Parkinson's,,66,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\061""",1,0,0
+patient,62,Healthy,,79,79,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\062""",0,0,1
+patient,63,Parkinson's,,52,58,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\063""",1,0,0
+patient,64,Atypical Parkinsonism,,55,58,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\064""",1,0,0
+patient,65,Parkinson's,,32,47,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\065""",1,0,0
+patient,66,Essential Tremor,,6,64,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\066""",1,0,0
+patient,67,Parkinson's,,58,65,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\067""",1,0,0
+patient,68,Parkinson's,,56,60,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\068""",1,0,0
+patient,69,Parkinson's,,53,57,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\069""",1,0,0
+patient,70,Essential Tremor,,60,78,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\070""",1,0,0
+patient,71,Parkinson's,,33,46,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\071""",1,0,0
+patient,72,Essential Tremor,,27,62,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\072""",1,0,0
+patient,73,Parkinson's,,37,49,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\073""",1,0,0
+patient,74,Parkinson's,,72,83,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\074""",1,0,0
+patient,75,Other Movement Disorders,,36,66,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\075""",1,0,0
+patient,76,Parkinson's,,60,66,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\076""",1,0,0
+patient,77,Other Movement Disorders,,37,41,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\077""",1,0,0
+patient,78,Healthy,,63,63,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\078""",0,0,1
+patient,79,Essential Tremor,,59,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\079""",1,0,0
+patient,80,Healthy,,71,71,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\080""",0,0,1
+patient,81,Healthy,,67,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\081""",0,0,1
+patient,82,Parkinson's,,71,81,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\082""",1,0,0
+patient,83,Parkinson's,,66,75,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\083""",1,0,0
+patient,84,Healthy,,90,90,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\084""",0,0,1
+patient,85,Parkinson's,,50,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\085""",1,0,0
+patient,86,Parkinson's,,40,46,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\086""",1,0,0
+patient,87,Parkinson's,,52,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\087""",1,0,0
+patient,88,Essential Tremor,,60,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\088""",1,0,0
+patient,89,Parkinson's,,67,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\089""",1,0,0
+patient,90,Parkinson's,,71,73,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\090""",1,0,0
+patient,91,Essential Tremor,,64,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\091""",1,0,0
+patient,92,Parkinson's,,48,55,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\092""",1,0,0
+patient,93,Parkinson's,,52,62,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\093""",1,0,0
+patient,94,Parkinson's,,67,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\094""",1,0,0
+patient,95,Parkinson's,,76,77,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\095""",1,0,0
+patient,96,Parkinson's,,62,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\096""",1,0,0
+patient,97,Healthy,,67,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\097""",0,0,1
+patient,98,Multiple Sclerosis,,0,59,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\098""",1,0,0
+patient,99,Parkinson's,,45,68,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\099""",1,0,0
+patient,100,Essential Tremor,,39,49,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\100""",1,0,0
+patient,101,Healthy,,58,58,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\101""",0,0,1
+patient,102,Parkinson's,,64,80,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\102""",1,0,0
+patient,103,Other Movement Disorders,,52,53,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\103""",1,0,0
+patient,104,Essential Tremor,,59,63,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\104""",1,0,0
+patient,105,Parkinson's,,76,76,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\105""",1,0,0
+patient,106,Atypical Parkinsonism,,73,74,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\106""",1,0,0
+patient,107,Parkinson's,,37,49,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\107""",1,0,0
+patient,108,Healthy,,61,61,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\108""",0,0,1
+patient,109,Parkinson's,,73,79,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\109""",1,0,0
+patient,110,Atypical Parkinsonism,,67,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\110""",1,0,0
+patient,111,Other Movement Disorders,,42,46,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\111""",1,0,0
+patient,112,Essential Tremor,,64,64,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\112""",1,0,0
+patient,113,Parkinson's,,56,66,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\113""",1,0,0
+patient,114,Atypical Parkinsonism,,57,61,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\114""",1,0,0
+patient,115,Parkinson's,,56,57,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\115""",1,0,0
+patient,116,Parkinson's,,43,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\116""",1,0,0
+patient,117,Other Movement Disorders,,0,82,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\117""",1,0,0
+patient,118,Atypical Parkinsonism,,64,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\118""",1,0,0
+patient,119,Parkinson's,,47,54,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\119""",1,0,0
+patient,120,Parkinson's,,0,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\120""",1,0,0
+patient,121,Healthy,,48,48,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\121""",0,0,1
+patient,122,Parkinson's,,60,72,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\122""",1,0,0
+patient,123,Other Movement Disorders,,66,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\123""",1,0,0
+patient,124,Essential Tremor,,40,59,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\124""",1,0,0
+patient,125,Parkinson's,,50,52,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\125""",1,0,0
+patient,126,Essential Tremor,,53,63,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\126""",1,0,0
+patient,127,Parkinson's,,48,51,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\127""",1,0,0
+patient,128,Parkinson's,,55,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\128""",1,0,0
+patient,129,Parkinson's,,67,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\129""",1,0,0
+patient,130,Other Movement Disorders,,58,59,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\130""",1,0,0
+patient,131,Parkinson's,,65,75,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\131""",1,0,0
+patient,132,Healthy,,63,63,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\132""",0,0,1
+patient,133,Parkinson's,,66,68,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\133""",1,0,0
+patient,134,Healthy,,48,48,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\134""",0,0,1
+patient,135,Parkinson's,,69,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\135""",1,0,0
+patient,136,Parkinson's,,62,63,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\136""",1,0,0
+patient,137,Other Movement Disorders,,63,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\137""",1,0,0
+patient,138,Other Movement Disorders,,55,55,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\138""",1,0,0
+patient,139,Parkinson's,,64,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\139""",1,0,0
+patient,140,Other Movement Disorders,,38,54,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\140""",1,0,0
+patient,141,Healthy,,64,64,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\141""",0,0,1
+patient,142,Multiple Sclerosis,,31,60,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\142""",1,0,0
+patient,143,Essential Tremor,,58,61,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\143""",1,0,0
+patient,144,Parkinson's,,40,49,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\144""",1,0,0
+patient,145,Parkinson's,,63,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\145""",1,0,0
+patient,146,Parkinson's,,68,71,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\146""",1,0,0
+patient,147,Parkinson's,,50,66,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\147""",1,0,0
+patient,148,Healthy,,80,80,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\148""",0,0,1
+patient,149,Parkinson's,,68,72,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\149""",1,0,0
+patient,150,Parkinson's,,54,58,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\150""",1,0,0
+patient,151,Parkinson's,,47,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\151""",1,0,0
+patient,152,Healthy,,56,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\152""",0,0,1
+patient,153,Healthy,,77,77,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\153""",0,0,1
+patient,154,Parkinson's,,39,61,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\154""",1,0,0
+patient,155,Parkinson's,,45,51,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\155""",1,0,0
+patient,156,Parkinson's,,58,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\156""",1,0,0
+patient,157,Parkinson's,,61,75,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\157""",1,0,0
+patient,158,Atypical Parkinsonism,,75,79,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\158""",1,0,0
+patient,159,Parkinson's,,46,50,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\159""",1,0,0
+patient,160,Healthy,,76,76,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\160""",0,0,1
+patient,161,Other Movement Disorders,,67,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\161""",1,0,0
+patient,162,Parkinson's,,35,46,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\162""",1,0,0
+patient,163,Parkinson's,,69,71,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\163""",1,0,0
+patient,164,Other Movement Disorders,,42,68,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\164""",1,0,0
+patient,165,Healthy,,56,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\165""",0,0,1
+patient,166,Parkinson's,,67,75,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\166""",1,0,0
+patient,167,Healthy,,58,58,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\167""",0,0,1
+patient,168,Atypical Parkinsonism,,66,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\168""",1,0,0
+patient,169,Parkinson's,,51,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\169""",1,0,0
+patient,170,Parkinson's,,64,71,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\170""",1,0,0
+patient,171,Essential Tremor,,67,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\171""",1,0,0
+patient,172,Parkinson's,,59,65,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\172""",1,0,0
+patient,173,Parkinson's,,67,78,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\173""",1,0,0
+patient,174,Parkinson's,,64,66,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\174""",1,0,0
+patient,175,Parkinson's,,51,61,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\175""",1,0,0
+patient,176,Other Movement Disorders,,0,43,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\176""",1,0,0
+patient,177,Healthy,,69,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\177""",0,0,1
+patient,178,Other Movement Disorders,,0,41,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\178""",1,0,0
+patient,179,Parkinson's,,65,75,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\179""",1,0,0
+patient,180,Parkinson's,,49,73,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\180""",1,0,0
+patient,181,Parkinson's,,51,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\181""",1,0,0
+patient,182,Parkinson's,,60,66,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\182""",1,0,0
+patient,183,Other Movement Disorders,,39,54,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\183""",1,0,0
+patient,184,Healthy,,54,54,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\184""",0,0,1
+patient,185,Parkinson's,,63,72,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\185""",1,0,0
+patient,186,Parkinson's,,60,65,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\186""",1,0,0
+patient,187,Parkinson's,,58,60,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\187""",1,0,0
+patient,188,Essential Tremor,,5,79,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\188""",1,0,0
+patient,189,Parkinson's,,67,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\189""",1,0,0
+patient,190,Parkinson's,,57,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\190""",1,0,0
+patient,191,Other Movement Disorders,,48,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\191""",1,0,0
+patient,192,Parkinson's,,65,74,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\192""",1,0,0
+patient,193,Healthy,,40,40,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\193""",0,0,1
+patient,194,Parkinson's,,50,53,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\194""",1,0,0
+patient,195,Multiple Sclerosis,,0,57,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\195""",1,0,0
+patient,196,Other Movement Disorders,,63,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\196""",1,0,0
+patient,197,Parkinson's,,75,77,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\197""",1,0,0
+patient,198,Parkinson's,,59,65,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\198""",1,0,0
+patient,199,Healthy,,70,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\199""",0,0,1
+patient,200,Essential Tremor,,51,54,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\200""",1,0,0
+patient,201,Parkinson's,,46,48,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\201""",1,0,0
+patient,202,Parkinson's,,31,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\202""",1,0,0
+patient,203,Healthy,,88,88,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\203""",0,0,1
+patient,204,Healthy,,56,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\204""",0,0,1
+patient,205,Healthy,,78,78,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\205""",0,0,1
+patient,206,Parkinson's,,58,61,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\206""",1,0,0
+patient,207,Other Movement Disorders,,45,78,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\207""",1,0,0
+patient,208,Parkinson's,,57,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\208""",1,0,0
+patient,209,Other Movement Disorders,,47,48,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\209""",1,0,0
+patient,210,Parkinson's,,37,61,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\210""",1,0,0
+patient,211,Parkinson's,,53,69,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\211""",1,0,0
+patient,212,Healthy,,71,71,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\212""",0,0,1
+patient,213,Other Movement Disorders,,56,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\213""",1,0,0
+patient,214,Healthy,,76,76,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\214""",0,0,1
+patient,215,Parkinson's,,62,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\215""",1,0,0
+patient,216,Parkinson's,,73,78,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\216""",1,0,0
+patient,217,Parkinson's,,65,73,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\217""",1,0,0
+patient,218,Parkinson's,,52,57,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\218""",1,0,0
+patient,219,Parkinson's,,60,72,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\219""",1,0,0
+patient,220,Parkinson's,,64,74,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\220""",1,0,0
+patient,221,Parkinson's,,47,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\221""",1,0,0
+patient,222,Essential Tremor,,82,85,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\222""",1,0,0
+patient,223,Parkinson's,,60,65,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\223""",1,0,0
+patient,224,Other Movement Disorders,,51,51,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\224""",1,0,0
+patient,225,Multiple Sclerosis,,62,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\225""",1,0,0
+patient,226,Parkinson's,,47,54,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\226""",1,0,0
+patient,227,Healthy,,65,65,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\227""",0,0,1
+patient,228,Parkinson's,,57,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\228""",1,0,0
+patient,229,Healthy,,68,68,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\229""",0,0,1
+patient,230,Healthy,,70,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\230""",0,0,1
+patient,231,Healthy,,52,52,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\231""",0,0,1
+patient,232,Healthy,,54,54,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\232""",0,0,1
+patient,233,Parkinson's,,67,73,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\233""",1,0,0
+patient,234,Parkinson's,,60,68,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\234""",1,0,0
+patient,235,Parkinson's,,58,78,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\235""",1,0,0
+patient,236,Parkinson's,,76,81,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\236""",1,0,0
+patient,237,Parkinson's,,0,60,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\237""",1,0,0
+patient,238,Atypical Parkinsonism,,54,61,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\238""",1,0,0
+patient,239,Parkinson's,,73,83,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\239""",1,0,0
+patient,240,Parkinson's,,75,78,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\240""",1,0,0
+patient,241,Other Movement Disorders,,75,82,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\241""",1,0,0
+patient,242,Parkinson's,,0,59,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\242""",1,0,0
+patient,243,Parkinson's,,36,48,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\243""",1,0,0
+patient,244,Parkinson's,,51,53,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\244""",1,0,0
+patient,245,Parkinson's,,48,63,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\245""",1,0,0
+patient,246,Parkinson's,,62,77,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\246""",1,0,0
+patient,247,Healthy,,68,68,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\247""",0,0,1
+patient,248,Parkinson's,,56,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\248""",1,0,0
+patient,249,Parkinson's,,61,64,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\249""",1,0,0
+patient,250,Healthy,,42,42,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\250""",0,0,1
+patient,251,Healthy,,52,52,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\251""",0,0,1
+patient,252,Parkinson's,,43,49,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\252""",1,0,0
+patient,253,Healthy,,61,61,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\253""",0,0,1
+patient,254,Healthy,,57,57,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\254""",0,0,1
+patient,255,Parkinson's,,69,77,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\255""",1,0,0
+patient,256,Parkinson's,,48,54,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\256""",1,0,0
+patient,257,Parkinson's,,76,78,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\257""",1,0,0
+patient,258,Parkinson's,,59,66,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\258""",1,0,0
+patient,259,Parkinson's,,52,62,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\259""",1,0,0
+patient,260,Parkinson's,,0,68,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\260""",1,0,0
+patient,261,Parkinson's,,67,72,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\261""",1,0,0
+patient,262,Parkinson's,,55,68,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\262""",1,0,0
+patient,263,Parkinson's,,46,54,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\263""",1,0,0
+patient,264,Parkinson's,,53,59,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\264""",1,0,0
+patient,265,Parkinson's,,68,75,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\265""",1,0,0
+patient,266,Parkinson's,,75,75,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\266""",1,0,0
+patient,267,Parkinson's,,70,73,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\267""",1,0,0
+patient,268,Parkinson's,,43,46,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\268""",1,0,0
+patient,269,Parkinson's,,65,85,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\269""",1,0,0
+patient,270,Parkinson's,,56,58,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\270""",1,0,0
+patient,271,Parkinson's,,69,74,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\271""",1,0,0
+patient,272,Healthy,,70,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\272""",0,0,1
+patient,273,Other Movement Disorders,,48,51,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\273""",1,0,0
+patient,274,Parkinson's,,57,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\274""",1,0,0
+patient,275,Essential Tremor,,63,64,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\275""",1,0,0
+patient,276,Other Movement Disorders,,14,42,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\276""",1,0,0
+patient,277,Parkinson's,,52,53,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\277""",1,0,0
+patient,278,Essential Tremor,,19,61,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\278""",1,0,0
+patient,279,Parkinson's,,64,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\279""",1,0,0
+patient,280,Atypical Parkinsonism,,73,77,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\280""",1,0,0
+patient,281,Parkinson's,,68,71,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\281""",1,0,0
+patient,282,Parkinson's,,60,78,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\282""",1,0,0
+patient,283,Healthy,,61,61,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\283""",0,0,1
+patient,284,Healthy,,83,83,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\284""",0,0,1
+patient,285,Healthy,,79,79,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\285""",0,0,1
+patient,286,Parkinson's,,47,55,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\286""",1,0,0
+patient,287,Other Movement Disorders,,43,44,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\287""",1,0,0
+patient,288,Other Movement Disorders,,48,48,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\288""",1,0,0
+patient,289,Parkinson's,,78,84,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\289""",1,0,0
+patient,290,Parkinson's,,54,75,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\290""",1,0,0
+patient,291,Atypical Parkinsonism,,65,66,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\291""",1,0,0
+patient,292,Parkinson's,,72,81,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\292""",1,0,0
+patient,293,Parkinson's,,73,79,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\293""",1,0,0
+patient,294,Healthy,,62,62,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\294""",0,0,1
+patient,295,Healthy,,64,64,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\295""",0,0,1
+patient,296,Parkinson's,,62,63,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\296""",1,0,0
+patient,297,Other Movement Disorders,,60,65,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\297""",1,0,0
+patient,298,Other Movement Disorders,,58,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\298""",1,0,0
+patient,299,Parkinson's,,53,59,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\299""",1,0,0
+patient,300,Parkinson's,,60,65,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\300""",1,0,0
+patient,301,Multiple Sclerosis,,52,54,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\301""",1,0,0
+patient,302,Essential Tremor,,70,82,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\302""",1,0,0
+patient,303,Parkinson's,,64,74,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\303""",1,0,0
+patient,304,Atypical Parkinsonism,,62,64,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\304""",1,0,0
+patient,305,Parkinson's,,47,47,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\305""",1,0,0
+patient,306,Parkinson's,,64,74,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\306""",1,0,0
+patient,307,Parkinson's,,37,42,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\307""",1,0,0
+patient,308,Healthy,,40,40,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\308""",0,0,1
+patient,309,Parkinson's,,62,63,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\309""",1,0,0
+patient,310,Other Movement Disorders,,59,60,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\310""",1,0,0
+patient,311,Healthy,,66,66,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\311""",0,0,1
+patient,312,Parkinson's,,46,58,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\312""",1,0,0
+patient,313,Parkinson's,,56,63,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\313""",1,0,0
+patient,314,Other Movement Disorders,,0,52,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\314""",1,0,0
+patient,315,Other Movement Disorders,,47,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\315""",1,0,0
+patient,316,Parkinson's,,62,63,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\316""",1,0,0
+patient,317,Other Movement Disorders,,50,52,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\317""",1,0,0
+patient,318,Other Movement Disorders,,75,85,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\318""",1,0,0
+patient,319,Healthy,,54,54,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\319""",0,0,1
+patient,320,Healthy,,72,72,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\320""",0,0,1
+patient,321,Other Movement Disorders,,0,66,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\321""",1,0,0
+patient,322,Parkinson's,,0,59,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\322""",1,0,0
+patient,323,Parkinson's,,58,71,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\323""",1,0,0
+patient,324,Parkinson's,,68,72,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\324""",1,0,0
+patient,325,Parkinson's,,53,73,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\325""",1,0,0
+patient,326,Other Movement Disorders,,55,63,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\326""",1,0,0
+patient,327,Parkinson's,,65,68,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\327""",1,0,0
+patient,328,Parkinson's,,75,78,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\328""",1,0,0
+patient,329,Healthy,,61,61,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\329""",0,0,1
+patient,330,Essential Tremor,,67,72,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\330""",1,0,0
+patient,331,Parkinson's,,47,53,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\331""",1,0,0
+patient,332,Parkinson's,,38,49,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\332""",1,0,0
+patient,333,Parkinson's,,64,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\333""",1,0,0
+patient,334,Other Movement Disorders,,68,77,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\334""",1,0,0
+patient,335,Healthy,,67,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\335""",0,0,1
+patient,336,Parkinson's,,78,82,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\336""",1,0,0
+patient,337,Healthy,,55,55,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\337""",0,0,1
+patient,338,Parkinson's,,59,65,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\338""",1,0,0
+patient,339,Parkinson's,,47,50,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\339""",1,0,0
+patient,340,Essential Tremor,,67,78,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\340""",1,0,0
+patient,341,Parkinson's,,61,76,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\341""",1,0,0
+patient,342,Parkinson's,,69,72,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\342""",1,0,0
+patient,343,Parkinson's,,51,53,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\343""",1,0,0
+patient,344,Parkinson's,,0,75,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\344""",1,0,0
+patient,345,Parkinson's,,59,64,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\345""",1,0,0
+patient,346,Parkinson's,,42,50,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\346""",1,0,0
+patient,347,Parkinson's,,63,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\347""",1,0,0
+patient,348,Parkinson's,,0,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\348""",1,0,0
+patient,349,Parkinson's,,70,81,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\349""",1,0,0
+patient,350,Essential Tremor,,20,52,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\350""",1,0,0
+patient,351,Parkinson's,,80,85,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\351""",1,0,0
+patient,352,Parkinson's,,45,55,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\352""",1,0,0
+patient,353,Parkinson's,,58,64,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\353""",1,0,0
+patient,354,Parkinson's,,67,74,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\354""",1,0,0
+patient,355,Parkinson's,,77,80,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\355""",1,0,0
+patient,356,Parkinson's,,73,76,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\356""",1,0,0
+patient,357,Parkinson's,,71,74,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\357""",1,0,0
+patient,358,Parkinson's,,66,68,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\358""",1,0,0
+patient,359,Other Movement Disorders,,62,71,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\359""",1,0,0
+patient,360,Parkinson's,,43,49,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\360""",1,0,0
+patient,361,Parkinson's,,53,55,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\361""",1,0,0
+patient,362,Parkinson's,,65,77,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\362""",1,0,0
+patient,363,Parkinson's,,60,62,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\363""",1,0,0
+patient,364,Parkinson's,,65,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\364""",1,0,0
+patient,365,Parkinson's,,72,74,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\365""",1,0,0
+patient,366,Parkinson's,,68,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\366""",1,0,0
+patient,367,Other Movement Disorders,,38,42,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\367""",1,0,0
+patient,368,Parkinson's,,54,68,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\368""",1,0,0
+patient,369,Parkinson's,,57,66,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\369""",1,0,0
+patient,370,Healthy,,85,85,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\370""",0,0,1
+patient,371,Healthy,,48,48,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\371""",0,0,1
+patient,372,Parkinson's,,60,66,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\372""",1,0,0
+patient,373,Other Movement Disorders,,51,53,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\373""",1,0,0
+patient,374,Parkinson's,,66,72,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\374""",1,0,0
+patient,375,Parkinson's,,73,76,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\375""",1,0,0
+patient,376,Parkinson's,,63,66,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\376""",1,0,0
+patient,377,Parkinson's,,48,58,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\377""",1,0,0
+patient,378,Parkinson's,,67,70,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\378""",1,0,0
+patient,379,Healthy,,81,81,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\379""",0,0,1
+patient,380,Parkinson's,,47,47,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\380""",1,0,0
+patient,381,Parkinson's,,58,71,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\381""",1,0,0
+patient,382,Essential Tremor,,22,72,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\382""",1,0,0
+patient,383,Parkinson's,,72,75,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\383""",1,0,0
+patient,384,Parkinson's,,68,78,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\384""",1,0,0
+patient,385,Parkinson's,,51,55,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\385""",1,0,0
+patient,386,Essential Tremor,,3,57,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\386""",1,0,0
+patient,387,Parkinson's,,50,61,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\387""",1,0,0
+patient,388,Parkinson's,,67,68,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\388""",1,0,0
+patient,389,Healthy,,67,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\389""",0,0,1
+patient,390,Parkinson's,,43,63,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\390""",1,0,0
+patient,391,Healthy,,54,54,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\391""",0,0,1
+patient,392,Parkinson's,,48,55,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\392""",1,0,0
+patient,393,Parkinson's,,51,54,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\393""",1,0,0
+patient,394,Parkinson's,,58,64,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\394""",1,0,0
+patient,395,Parkinson's,,53,54,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\395""",1,0,0
+patient,396,Essential Tremor,,75,79,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\396""",1,0,0
+patient,397,Atypical Parkinsonism,,50,54,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\397""",1,0,0
+patient,398,Parkinson's,,75,75,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\398""",1,0,0
+patient,399,Other Movement Disorders,,54,55,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\399""",1,0,0
+patient,400,Parkinson's,,64,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\400""",1,0,0
+patient,401,Parkinson's,,48,57,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\401""",1,0,0
+patient,402,Healthy,,80,80,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\402""",0,0,1
+patient,403,Parkinson's,,62,65,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\403""",1,0,0
+patient,404,Other Movement Disorders,,77,83,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\404""",1,0,0
+patient,405,Parkinson's,,47,51,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\405""",1,0,0
+patient,406,Parkinson's,,49,58,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\406""",1,0,0
+patient,407,Healthy,,52,52,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\407""",0,0,1
+patient,408,Healthy,,44,44,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\408""",0,0,1
+patient,409,Parkinson's,,79,79,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\409""",1,0,0
+patient,410,Parkinson's,,61,63,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\410""",1,0,0
+patient,411,Parkinson's,,45,59,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\411""",1,0,0
+patient,412,Parkinson's,,43,47,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\412""",1,0,0
+patient,413,Parkinson's,,58,66,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\413""",1,0,0
+patient,414,Other Movement Disorders,,67,69,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\414""",1,0,0
+patient,415,Parkinson's,,44,55,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\415""",1,0,0
+patient,416,Healthy,,72,72,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\416""",0,0,1
+patient,417,Parkinson's,,60,78,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\417""",1,0,0
+patient,418,Parkinson's,,70,78,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\418""",1,0,0
+patient,419,Healthy,,65,65,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\419""",0,0,1
+patient,420,Healthy,,57,57,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\420""",0,0,1
+patient,421,Multiple Sclerosis,,47,49,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\421""",1,0,0
+patient,422,Parkinson's,,42,57,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\422""",1,0,0
+patient,423,Essential Tremor,,20,50,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\423""",1,0,0
+patient,424,Parkinson's,,54,55,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\424""",1,0,0
+patient,425,Parkinson's,,50,51,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\425""",1,0,0
+patient,426,Parkinson's,,73,74,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\426""",1,0,0
+patient,427,Healthy,,50,50,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\427""",0,0,1
+patient,428,Parkinson's,,53,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\428""",1,0,0
+patient,429,Essential Tremor,,50,82,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\429""",1,0,0
+patient,430,Parkinson's,,63,66,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\430""",1,0,0
+patient,431,Parkinson's,,38,50,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\431""",1,0,0
+patient,432,Multiple Sclerosis,,32,60,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\432""",1,0,0
+patient,433,Parkinson's,,69,79,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\433""",1,0,0
+patient,434,Other Movement Disorders,,0,75,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\434""",1,0,0
+patient,435,Parkinson's,,59,78,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\435""",1,0,0
+patient,436,Healthy,,75,75,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\436""",0,0,1
+patient,437,Parkinson's,,65,65,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\437""",1,0,0
+patient,438,Multiple Sclerosis,,30,43,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\438""",1,0,0
+patient,439,Other Movement Disorders,,57,69,left,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\439""",1,0,0
+patient,440,Parkinson's,,57,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\440""",1,0,0
+patient,441,Parkinson's,,63,65,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\441""",1,0,0
+patient,442,Parkinson's,,58,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\442""",1,0,0
+patient,443,Parkinson's,,63,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\443""",1,0,0
+patient,444,Healthy,,42,42,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\444""",0,0,1
+patient,445,Essential Tremor,,45,45,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\445""",1,0,0
+patient,446,Parkinson's,,60,63,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\446""",1,0,0
+patient,447,Parkinson's,,55,73,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\447""",1,0,0
+patient,448,Parkinson's,,53,56,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\448""",1,0,0
+patient,449,Healthy,,45,45,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\449""",0,0,1
+patient,450,Other Movement Disorders,,0,59,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\450""",1,0,0
+patient,451,Other Movement Disorders,,42,47,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\451""",1,0,0
+patient,452,Parkinson's,,54,62,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\452""",1,0,0
+patient,453,Other Movement Disorders,,0,48,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\453""",1,0,0
+patient,454,Parkinson's,,66,73,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\454""",1,0,0
+patient,455,Healthy,,60,60,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\455""",0,0,1
+patient,456,Parkinson's,,70,73,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\456""",1,0,0
+patient,457,Healthy,,69,69,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\457""",0,0,1
+patient,458,Parkinson's,,47,51,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\458""",1,0,0
+patient,459,Healthy,,81,81,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\459""",0,0,1
+patient,460,Parkinson's,,65,67,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\460""",1,0,0
+patient,461,Parkinson's,,75,78,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\461""",1,0,0
+patient,462,Other Movement Disorders,,0,58,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\462""",1,0,0
+patient,463,Healthy,,65,65,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\463""",0,0,1
+patient,464,Parkinson's,,36,51,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\464""",1,0,0
+patient,465,Parkinson's,,62,65,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\465""",1,0,0
+patient,466,Healthy,,84,84,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\466""",0,0,1
+patient,467,Parkinson's,,55,57,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\467""",1,0,0
+patient,468,Parkinson's,,73,76,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\468""",1,0,0
+patient,469,Parkinson's,,44,54,right,"""C:\Users\Hp\OneDrive\Desktop\CAPSTONE EVERYTHING\DATASETS-FOLDER\469""",1,0,0
