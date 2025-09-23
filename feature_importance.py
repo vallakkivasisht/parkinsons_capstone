@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 
 # 1. Load the dataset
-df = pd.read_csv("patients_features_filtered.csv")
+df = pd.read_csv("patients_top10_features.csv")
 
 # 2. Define target columns (adjust if names differ)
 target_cols = ["COND_OTHER", "COND_PARKINSONS", "COND_HEALTHY"]

@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load your dataset
-file_path = r"C:\Users\vallakki Vasisht\OneDrive\Documents\capstone\working_model\patients_features_filtered.csv"
+file_path = r"C:\Users\vallakki Vasisht\OneDrive\Documents\capstone\working_model\patients_14features_accuracy_boost.csv"
 df = pd.read_csv(file_path)
 
 # Select only numeric columns for correlation
